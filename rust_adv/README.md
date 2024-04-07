@@ -1,2 +1,2 @@
 # rustic-adventures
-playing around with rust
+playing around with rust dev
